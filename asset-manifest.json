@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd94427f.css",
+    "main.js": "/static/js/main.fc5c021d.js",
+    "static/media/littleAlchemyThumbnail.png": "/static/media/littleAlchemyThumbnail.387b252370292f9e0618.png",
+    "static/media/chickenGameThumbnail.png": "/static/media/chickenGameThumbnail.ee8b5812d868aabb6247.png",
+    "static/media/crabApplesThumbnail.png": "/static/media/crabApplesThumbnail.7a67e7bf7d6e1d6fd3c9.png",
+    "static/media/crumpleOverlay.png": "/static/media/crumpleOverlay.20c5bc5382a318d4a541.png",
+    "static/media/wavyOverlay.png": "/static/media/wavyOverlay.d79b870b309242f774eb.png",
+    "static/media/kaThumbnail.png": "/static/media/kaThumbnail.0c93037a712c1751834f.png",
+    "static/media/vertexLegendsThumbnail.png": "/static/media/vertexLegendsThumbnail.ef16efac009922196350.png",
+    "static/media/clouds2.png": "/static/media/clouds2.e18c1ae0b410b001112a.png",
+    "static/media/trainerChicken.png": "/static/media/trainerChicken.7b34897b809b13e9609e.png",
+    "static/media/chicken.png": "/static/media/chicken.22e13f5b971840f412cc.png",
+    "static/media/reactLogo.png": "/static/media/reactLogo.b7a0f3a63c651c54aed2.png",
+    "static/media/csshtmlLogo.png": "/static/media/csshtmlLogo.f7038e05f37a076db34a.png",
+    "static/media/kaLogoColored.png": "/static/media/kaLogoColored.854159b9b564b620a388.png",
+    "static/media/kaLogo.png": "/static/media/kaLogo.6543c9bfdd53d18c349f.png",
+    "static/media/discordLogo.png": "/static/media/discordLogo.050b058cf416964a0135.png",
+    "static/media/gmailLogo.png": "/static/media/gmailLogo.f23d4c998101d90c5968.png",
+    "static/media/javascriptLogo.png": "/static/media/javascriptLogo.00fd0fae01e451c5460a.png",
+    "static/media/githubLogo.png": "/static/media/githubLogo.4432f0428363b4e194bf.png",
+    "index.html": "/index.html",
+    "main.cd94427f.css.map": "/static/css/main.cd94427f.css.map",
+    "main.fc5c021d.js.map": "/static/js/main.fc5c021d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd94427f.css",
+    "static/js/main.fc5c021d.js"
+  ]
+}
